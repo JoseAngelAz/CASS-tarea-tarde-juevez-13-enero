@@ -1,0 +1,11 @@
+C:\Users\Jose.Mendez\Desktop\ANGEL\Jueves13\bin\Debug\netcoreapp2.1\Jueves13.deps.json
+C:\Users\Jose.Mendez\Desktop\ANGEL\Jueves13\bin\Debug\netcoreapp2.1\Jueves13.runtimeconfig.json
+C:\Users\Jose.Mendez\Desktop\ANGEL\Jueves13\bin\Debug\netcoreapp2.1\Jueves13.runtimeconfig.dev.json
+C:\Users\Jose.Mendez\Desktop\ANGEL\Jueves13\bin\Debug\netcoreapp2.1\Jueves13.dll
+C:\Users\Jose.Mendez\Desktop\ANGEL\Jueves13\bin\Debug\netcoreapp2.1\Jueves13.pdb
+C:\Users\Jose.Mendez\Desktop\ANGEL\Jueves13\obj\Debug\netcoreapp2.1\Jueves13.csprojAssemblyReference.cache
+C:\Users\Jose.Mendez\Desktop\ANGEL\Jueves13\obj\Debug\netcoreapp2.1\Jueves13.csproj.CoreCompileInputs.cache
+C:\Users\Jose.Mendez\Desktop\ANGEL\Jueves13\obj\Debug\netcoreapp2.1\Jueves13.AssemblyInfoInputs.cache
+C:\Users\Jose.Mendez\Desktop\ANGEL\Jueves13\obj\Debug\netcoreapp2.1\Jueves13.AssemblyInfo.cs
+C:\Users\Jose.Mendez\Desktop\ANGEL\Jueves13\obj\Debug\netcoreapp2.1\Jueves13.dll
+C:\Users\Jose.Mendez\Desktop\ANGEL\Jueves13\obj\Debug\netcoreapp2.1\Jueves13.pdb
