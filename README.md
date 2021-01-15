@@ -1,4 +1,4 @@
-# CASS-tarea-tarde-juevez-13-enero
+# CASS-tarea-tarde-miercoles-13-enero
 tarea por la tarde de c#
 Correr con VScode con net core
 fijarse que el target framework sea netcoreapp3.1 de la siguiente manera
