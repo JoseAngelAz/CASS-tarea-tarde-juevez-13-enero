@@ -22,6 +22,7 @@ namespace Jueves13.Ejercicios
         //convertir kg a lb    
         public void ConvertirKgToLibras(){
             double conversion = kg * 2.20462;
+            WriteLine("El resultado de convertir "+ kg +"Kg a Libras es: "+ conversion);
         }
 
     }

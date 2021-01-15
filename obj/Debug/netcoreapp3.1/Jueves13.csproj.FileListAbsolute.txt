@@ -1,0 +1,13 @@
+/home/angel/Escritorio/NET/CASS-tarea-tarde-juevez-13-enero/bin/Debug/netcoreapp3.1/Jueves13
+/home/angel/Escritorio/NET/CASS-tarea-tarde-juevez-13-enero/bin/Debug/netcoreapp3.1/Jueves13.deps.json
+/home/angel/Escritorio/NET/CASS-tarea-tarde-juevez-13-enero/bin/Debug/netcoreapp3.1/Jueves13.runtimeconfig.json
+/home/angel/Escritorio/NET/CASS-tarea-tarde-juevez-13-enero/bin/Debug/netcoreapp3.1/Jueves13.runtimeconfig.dev.json
+/home/angel/Escritorio/NET/CASS-tarea-tarde-juevez-13-enero/bin/Debug/netcoreapp3.1/Jueves13.dll
+/home/angel/Escritorio/NET/CASS-tarea-tarde-juevez-13-enero/bin/Debug/netcoreapp3.1/Jueves13.pdb
+/home/angel/Escritorio/NET/CASS-tarea-tarde-juevez-13-enero/obj/Debug/netcoreapp3.1/Jueves13.csprojAssemblyReference.cache
+/home/angel/Escritorio/NET/CASS-tarea-tarde-juevez-13-enero/obj/Debug/netcoreapp3.1/Jueves13.AssemblyInfoInputs.cache
+/home/angel/Escritorio/NET/CASS-tarea-tarde-juevez-13-enero/obj/Debug/netcoreapp3.1/Jueves13.AssemblyInfo.cs
+/home/angel/Escritorio/NET/CASS-tarea-tarde-juevez-13-enero/obj/Debug/netcoreapp3.1/Jueves13.csproj.CoreCompileInputs.cache
+/home/angel/Escritorio/NET/CASS-tarea-tarde-juevez-13-enero/obj/Debug/netcoreapp3.1/Jueves13.dll
+/home/angel/Escritorio/NET/CASS-tarea-tarde-juevez-13-enero/obj/Debug/netcoreapp3.1/Jueves13.pdb
+/home/angel/Escritorio/NET/CASS-tarea-tarde-juevez-13-enero/obj/Debug/netcoreapp3.1/Jueves13.genruntimeconfig.cache
